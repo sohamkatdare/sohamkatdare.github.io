@@ -1,0 +1,26 @@
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.flavor-text {
+  margin: 30px;
+}
+
+.card-title {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.brand-logo {
+  margin-right: 10px;
+}
+
+i.btn {
+/*   width: 15%; */
+}
+
+#bg-img {
+  position: absolute;
+  width: 100vw
+}
